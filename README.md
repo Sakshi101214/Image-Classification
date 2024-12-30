@@ -26,8 +26,7 @@ DeepLensX is a Streamlit app that integrates MobileNetV2 and a CIFAR-10 model fo
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/JayRathod341997/DeepLensX.git
-   cd DeepLensX
+   git clone https://github.com/Sakshi101214/Image-Classification
 2. **Create and activate a virtual environment**:
     ```bash
     python -m venv venv
