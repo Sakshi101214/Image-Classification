@@ -1,0 +1,10 @@
+# Ignore Python environment folders
+env/
+
+# Ignore model files
+*.h5
+
+# Ignore temporary files
+*.csv
+*.png
+__pycache__/
