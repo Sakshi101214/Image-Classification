@@ -52,3 +52,6 @@ DeepLensX is a Streamlit app that integrates MobileNetV2 and a CIFAR-10 model fo
 ### Acknowledgements
   - Streamlit
   - TensorFlow
+### DEPLOYED APP 
+https://deeplens.streamlit.app/
+    
